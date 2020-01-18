@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/cglib-nodep-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/derby-10.12.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/LookingGlass.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/selenium-htmlunit-driver-2.44.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/testng-6.9.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BinitaRawat/Desktop/binita/Workspace/UIAT_new/UIAT_new/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

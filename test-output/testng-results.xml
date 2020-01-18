@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14205" started-at="2020-01-18T17:47:03Z" finished-at="2020-01-18T17:47:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14205" started-at="2020-01-18T17:47:03Z" finished-at="2020-01-18T17:47:17Z">
+      <class name="Package.TestGetClass">
+        <test-method status="PASS" signature="OpenBrowser()[pri:1, instance:Package.TestGetClass@7823a2f9]" name="OpenBrowser" duration-ms="3169" started-at="2020-01-18T23:17:03Z" finished-at="2020-01-18T23:17:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="LaunchGmail()[pri:2, instance:Package.TestGetClass@7823a2f9]" name="LaunchGmail" duration-ms="5814" started-at="2020-01-18T23:17:06Z" finished-at="2020-01-18T23:17:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchGmail -->
+        <test-method status="PASS" signature="SignIn()[pri:3, instance:Package.TestGetClass@7823a2f9]" name="SignIn" duration-ms="5082" started-at="2020-01-18T23:17:12Z" finished-at="2020-01-18T23:17:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn -->
+        <test-method status="PASS" signature="GetURL()[pri:4, instance:Package.TestGetClass@7823a2f9]" name="GetURL" duration-ms="87" started-at="2020-01-18T23:17:17Z" finished-at="2020-01-18T23:17:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetURL -->
+        <test-method status="PASS" signature="DriverClose()[pri:5, instance:Package.TestGetClass@7823a2f9]" name="DriverClose" duration-ms="17" started-at="2020-01-18T23:17:17Z" finished-at="2020-01-18T23:17:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DriverClose -->
+      </class> <!-- Package.TestGetClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
